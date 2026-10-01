@@ -102,25 +102,3 @@ Retrofit API Services
       ↓
 Open-Meteo APIs
 
-## Screenshots
-
-### Main Search Screen
-
-![Main Search Screen](screenshots/01_initial_screen.jpg)
-
-### Weather Result
-
-![Weather Result](screenshots/02_weather_result.jpg)
-
-### Invalid City Error
-
-![Invalid City Error](screenshots/03_invalid_city.jpg)
-
-### Network Error
-
-![Network Error](screenshots/04_network_error.jpg)
-
-### Loading Screen
-
-![Loading Screen](screenshots/05_loading_page.jpg)
-
